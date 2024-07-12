@@ -9,7 +9,7 @@
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="typescript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
 
 ### Cloud
-<img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=for-232F3Ethe-badge&logo=Amazon AWS&logoColor=white"> <img alt="awsS3" src="https://img.shields.io/badge/Amazon AWS-569A31?style=for-232F3Ethe-badge&logo=Amazon S3&logoColor=white"> <img alt="awsEC2" src="https://img.shields.io/badge/Amazon AWS-569A31?style=for-FF9900the-badge&logo=Amazon EC2&logoColor=white">
+<img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img alt="awsS3" src="https://img.shields.io/badge/Amazon AWS-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img alt="awsEC2" src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 
 ### 협업
 <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img alt="gitlab" src ="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> <img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img alt="notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
